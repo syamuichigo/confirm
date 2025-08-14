@@ -1,0 +1,37 @@
+.back-text_inner {}
+
+.back-text {
+    margin: 0 auto;
+    font-size: 280px;
+    font-weight: 400;
+    color: #8B79690D;
+}
+
+.thanks-inner {
+    transform: translate(0%, -250%);
+    margin: 0 auto;
+}
+
+.thanks-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+}
+
+.thanks-content_text {
+    color: #8B7969;
+}
+
+.back-button {
+    text-align: center;
+}
+
+.back-button_submit {
+    background-color: #82756A;
+    color: #fff;
+    padding: 10px 40px;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+}
